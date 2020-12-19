@@ -6,6 +6,7 @@
 *.rbc
 capybara-*.html
 .rspec
+.vscode/launch.json
 /db/*.sqlite3
 /db/*.sqlite3-journal
 /db/*.sqlite3-[0-9]*
@@ -14,6 +15,7 @@ capybara-*.html
 /spec/tmp
 *.orig
 rerun.txt
+.vscode/launch.json
 pickle-email-*.html
 
 # Ignore all logfiles and tempfiles.
